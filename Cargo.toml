@@ -30,10 +30,10 @@ default-features = false
 optional = true
 
 [dependencies.polyanya]
-version = "0.15.0"
+version = "0.14.0"
 
 [dependencies.bevy]
-version = "0.17.2"
+version = "0.17"
 features = ["bevy_render", "bevy_asset", "bevy_log"]
 default-features = false
 
@@ -47,7 +47,7 @@ version = "0.15.0"
 features = ["serde"]
 
 [dev-dependencies.bevy]
-version = "0.17.2"
+version = "0.17"
 features = [
     "bevy_window",
     "bevy_ui",
