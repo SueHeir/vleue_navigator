@@ -30,8 +30,7 @@ default-features = false
 optional = true
 
 [dependencies.polyanya]
-git = "https://github.com/keithamus/polyanya"
-branch = "bump-rerecast-bvh2d-glam"
+git = "https://github.com/vleue/polyanya"
 
 [dependencies.bevy]
 version = "0.17"
